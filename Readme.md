@@ -47,6 +47,6 @@ password:mongo
 
 ```
 
-uri: "mongodb://@localhost:27017/{database name}"
+uri: "mongodb://root:mongo@localhost:27017/?authSource=admin"
 
 ```

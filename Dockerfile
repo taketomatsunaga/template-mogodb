@@ -1,7 +1,7 @@
 ##
 # MongoDB
 ##
-FROM mongo:3.4
+FROM mongo:4.0.9
 MAINTAINER TaketoMatsunaga
 
 ENV MONGO_INITDB_ROOT_USERNAME root
